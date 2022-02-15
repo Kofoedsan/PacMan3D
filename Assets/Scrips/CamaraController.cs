@@ -9,5 +9,9 @@ public class CamaraController : MonoBehaviour
     private void Update()
     {
         transform.position = new Vector3(packman.position.x, packman.position.y +3, packman.position.z -5);
+
+
+   
+
     }
 }
