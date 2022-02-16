@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Level 1.unity
-    guid: b86de39891eafc64180017054ddd2606
+    path: Assets/Scenes/PacMan1.unity
+    guid: 39daa604a50bc1745bf10cdc53341b26
   m_configObjects: {}
